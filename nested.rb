@@ -88,7 +88,7 @@ programmer_hash = Hash.new {:yukihiro_matsumoto => {
 	:languages => ["LISP", "C"]
 	} }
 
-	programmer_hash
+
 
 end
 
