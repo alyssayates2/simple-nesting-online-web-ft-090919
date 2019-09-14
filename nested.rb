@@ -87,9 +87,10 @@ programmer_hash[0] = [:yukihiro_matsumoto => {
           :known_for => "Unix",
           :languages => ["C"]
         }
+				programmer_hash
      }
 
-programmer_hash
+
 
 end
 
